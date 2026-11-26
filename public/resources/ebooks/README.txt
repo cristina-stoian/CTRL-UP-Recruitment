@@ -1,0 +1,1 @@
+Place final PDF files here, then enable the corresponding editions in src/config.js. Do not publish dummy PDFs. Expected filenames: corporate-guide-ro.pdf, corporate-guide-en.pdf, corporate-guide-de.pdf, corporate-guide-fr.pdf, corporate-guide-es.pdf, corporate-guide-it.pdf.
