@@ -1,6 +1,5 @@
 # CTRL-UP Recruitment — Website V1
 
-React + Vite, multi-page website, all visitor-facing content in English. Original colour palette (orange #f5821f, cream #fffaf1, black #111111) extended with pastel sticky-note accents. No shopping cart, checkout, payments, simulated CV scans or user accounts.
 
 ## Run locally (Node.js 22 recommended)
 
